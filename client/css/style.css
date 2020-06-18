@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+}
+.mew-form{
+    width: 50%;
+    margin: 0 auto;
+}
+.submit{
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+.loadingimg{
+    padding-top: 10px;
+    display:block;
+    margin:auto;
+}
+.mews{
+    width: 80%;
+    margin: 0 auto;
+}
